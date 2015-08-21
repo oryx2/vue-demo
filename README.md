@@ -6,10 +6,8 @@
 
 ``` bash
 npm install
-npm run dev
+npm run server 
 ```
 
 ## Notes
 
-The app uses a lot of pre-processors just for demonstration purposes.
-#vue-demo
